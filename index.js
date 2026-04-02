@@ -1,0 +1,1 @@
+console.log("Hello, NURE! My first git lab is working.");
