@@ -13,3 +13,4 @@
 * IDE: Visual Studio Code 1.110
 * VCS: Git 2.47 + GitHub
 * AI-асистент: GitHub Copilot Student
+[Завантажити звіт у форматі PDF](./Zvit_LR1_Yevsovych.pdf)
